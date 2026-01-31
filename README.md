@@ -31,7 +31,7 @@ IT Engineering Student | Full-Stack Software Developer
 
 ---
 
-## 💻 Technical Skills
+## 🪛 Technical Skills
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ IT Engineering Student | Full-Stack Software Developer
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
 <br>
 
@@ -84,7 +84,7 @@ IT Engineering Student | Full-Stack Software Developer
 <tr>
 <td width="50%" align="center">
 
-### 🌸 **Parfuma**
+### **Parfuma**
 *Intelligent perfume formula generator*
 
 Java Spring Boot • Angular • JUnit  
@@ -94,7 +94,7 @@ Java Spring Boot • Angular • JUnit
 
 <td width="50%" align="center">
 
-### 🏨 **HotelFlow**
+### **HotelFlow**
 *Hotel management & booking platform*
 
 Spring Boot • React • PostgreSQL  
@@ -106,7 +106,7 @@ Spring Boot • React • PostgreSQL
 <tr>
 <td width="50%" align="center">
 
-### 🚌 **Time2Bus**
+### **Time2Bus**
 *Smart real-time transport notification app*
 
 React Native • Node.js  
@@ -116,7 +116,7 @@ React Native • Node.js
 
 <td width="50%" align="center">
 
-### 💪 **7ZZ GYM**
+### **7ZZ GYM**
 *Fitness web app using external APIs*
 
 React • REST APIs  
@@ -128,7 +128,7 @@ React • REST APIs
 
 ---
 
-## 📊 GitHub Analytics
+## 🔖 GitHub Analytics
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaOuba00-1&bg_color=00000000&color=00FF41&line=00FF41&area=true&hide_border=true" width="100%" />
@@ -139,7 +139,7 @@ React • REST APIs
 ![Snake animation](cyber-matrix.svg)
 
 ---
-## 🤝 Let's Connect
+## 👥 Let's Connect
 
 📧 **hamza.ouba@outlook.com**  
 🌐 **https://www.hamzaouba.online**  
