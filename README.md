@@ -5,7 +5,7 @@ IT Engineering Student | Full-Stack Software Developer
 </h3>
 
 <p align="center">
-  <a href="https://www.hamzaouba.online">
+  <a href="https://www.hamzaouba.space">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-ouba">
@@ -141,7 +141,7 @@ React • REST APIs
 ## 👥 Let's Connect
 
 📧 **hamza.ouba@outlook.com**  
-🌐 **https://www.hamzaouba.online**  
+🌐 **https://www.hamzaouba.space**  
 
 💼 **Open to internships & collaborations**
 
