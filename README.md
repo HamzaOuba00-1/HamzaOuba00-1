@@ -40,9 +40,6 @@ IT Engineering Student | Full-Stack Software Developer
   <a href="https://spaceh.online">
     <img src="https://img.shields.io/badge/Live_Project-spaceh.online-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/HamzaOuba00-1/space-h">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 **space-H** is my structured learning laboratory — a static platform where I transform what I learn into clear technical articles and practical exercises.
