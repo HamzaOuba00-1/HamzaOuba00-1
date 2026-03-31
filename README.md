@@ -23,7 +23,7 @@ IT Engineering Student | Full-Stack Software Developer
 
 ## 👨‍💻 About Me
 
-🎓 **4th-year IT engineering student at CESI Engineering School (Nice, France)**, passionate about software development and innovative tech. I thrive on building smart, real-world solutions through hands-on projects.
+🎓 **4th-year IT engineering student at CESI Engineering School**, passionate about software development and innovative tech. I thrive on building smart, real-world solutions through hands-on projects.
 
 💻 Experienced in full-stack development, and have built several web and mobile applications.
 
