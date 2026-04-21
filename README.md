@@ -136,7 +136,3 @@ React • REST APIs
 ## 👥 Let's Connect
 
 📧 **hamza.ouba@outlook.com**  
-🌐 **https://www.hamzaouba.space**  
-
-💼 **Open to internships & collaborations**
-
