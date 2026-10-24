@@ -168,21 +168,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaOuba00-1&bg_color=1F1E1D&color=FAF9F5&title_color=D97757&line=D97757&point=FAF9F5&area=true&area_color=D97757&hide_border=true&radius=8" width="100%" />
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamzaOuba00-1/HamzaOuba00-1/output/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/HamzaOuba00-1/HamzaOuba00-1/output/snake-light.svg" />
-</picture>
-
----
-
 ## 🤝 Let's Connect
 
 📧 **[ouba.hamza@outlook.fr](mailto:ouba.hamza@outlook.fr)**  
