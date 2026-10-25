@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hamza Ouba</h1>
+<h1 align="center">Hamza OUBA</h1>
 
 <p align="center">
   <a href="https://hamzaouba.space">
@@ -19,9 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-6--month_end--of--studies_internship_·_Feb_2027-262624?style=flat-square&labelColor=D97757&color=262624" />
-</p>
 
 ---
 
@@ -172,4 +169,3 @@
 
 📧 **[ouba.hamza@outlook.fr](mailto:ouba.hamza@outlook.fr)**  
 🌐 **[hamzaouba.space](https://hamzaouba.space)**  
-💼 **Looking for a 6-month end-of-studies internship in Data Science / Data Engineering from February 2027**
